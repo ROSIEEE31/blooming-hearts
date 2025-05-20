@@ -1,0 +1,310 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&family=Dancing+Script:wght@400;500;600;700&family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #e74c3c;
+    --accent-color: #c0392b;
+    --text-color: #2c3e50;
+    --light-text: #7f8c8d;
+    --background-light: #f8f9fa;
+    --white: #ffffff;
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    overflow: hidden;
+    position: relative;
+    background: var(--background-light);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i.pinimg.com/736x/e5/e0/05/e5e00565bc9ab72034843e1374908cb4.jpg');
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    opacity: 0.8;
+}
+
+.glass-container {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.main-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.5rem 2rem;
+    z-index: 10;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: var(--shadow);
+}
+
+.main-nav {
+    display: flex;
+    justify-content: flex-end;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-links {
+    display: flex;
+    gap: 2.5rem;
+}
+
+.nav-link {
+    color: var(--text-color);
+    text-decoration: none;
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    transition: var(--transition);
+    position: relative;
+    padding: 0.5rem 0;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--secondary-color);
+    transition: var(--transition);
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+.main-content {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.hero-section {
+    padding: 4rem 2rem;
+}
+
+.brand-name {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    color: var(--text-color);
+    margin-bottom: 1.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.tagline {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.8rem;
+    color: var(--light-text);
+    margin-bottom: 3rem;
+    line-height: 1.6;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.cta-container {
+    margin-top: 3rem;
+}
+
+.cta-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.2rem 2.5rem;
+    background: var(--secondary-color);
+    color: var(--white);
+    text-decoration: none;
+    border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+    transition: var(--transition);
+    box-shadow: var(--shadow);
+    border: 2px solid transparent;
+    letter-spacing: 0.5px;
+}
+
+.cta-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(231, 76, 60, 0.4);
+    background: var(--accent-color);
+    border-color: var(--white);
+}
+
+.cta-button i {
+    transition: var(--transition);
+}
+
+.cta-button:hover i {
+    transform: translateX(5px);
+}
+
+/* Floating Elements */
+.floating-elements {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.floating-rose,
+.floating-heart,
+.floating-leaf {
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
+}
+
+.floating-rose {
+    width: 60px;
+    height: 60px;
+    background-image: url('https://i.pinimg.com/474x/14/1e/ae/141eae9236832d186696822d6883985a.jpg');
+    animation: float 8s ease-in-out infinite;
+    top: 20%;
+    left: 10%;
+}
+
+.floating-heart {
+    width: 50px;
+    height: 50px;
+    background-image: url('https://i.pinimg.com/474x/69/f7/1b/69f71b6d9fb97b043123e6e166a97350.jpg');
+    animation: float 6s ease-in-out infinite;
+    top: 40%;
+    right: 15%;
+}
+
+.floating-leaf {
+    width: 55px;
+    height: 55px;
+    background-image: url('https://i.pinimg.com/474x/42/ea/db/42eadb84e4b19d170a3e9d9bb57483d0.jpg');
+    animation: float 7s ease-in-out infinite;
+    bottom: 20%;
+    left: 20%;
+}
+
+/* Animations */
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0) rotate(0deg);
+    }
+    50% {
+        transform: translateY(-20px) rotate(5deg);
+    }
+}
+
+.animate-fade-in {
+    animation: fadeIn 1.5s ease-out;
+}
+
+.animate-slide-up {
+    animation: slideUp 1s ease-out;
+}
+
+.animate-fade-in-delay {
+    animation: fadeIn 1.5s ease-out 0.5s both;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .brand-name {
+        font-size: 3.5rem;
+    }
+
+    .tagline {
+        font-size: 1.4rem;
+        padding: 0 1rem;
+    }
+
+    .nav-links {
+        gap: 1.5rem;
+    }
+
+    .nav-link {
+        font-size: 1rem;
+    }
+
+    .cta-button {
+        padding: 1rem 2rem;
+        font-size: 1.1rem;
+    }
+
+    .floating-elements {
+        display: none;
+    }
+}
+
+@media (max-width: 480px) {
+    .brand-name {
+        font-size: 2.8rem;
+    }
+
+    .tagline {
+        font-size: 1.2rem;
+    }
+
+    .nav-links {
+        gap: 1rem;
+    }
+
+    .main-header {
+        padding: 1rem;
+    }
+} 
