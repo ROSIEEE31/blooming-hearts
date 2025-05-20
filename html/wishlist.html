@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Wishlist - Blooming Hearts</title>
+    <link rel="stylesheet" href="../css/wishlist.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@300;400;500&family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="background-image"></div>
+    
+    <div class="glass-container">
+        <header class="wishlist-header">
+            <a href="dashboard.html" class="back-link">
+                <i class="fas fa-arrow-left"></i> Back to Dashboard
+            </a>
+            <h1 class="wishlist-title">My Wishlist 🎀</h1>
+        </header>
+
+        <div class="wishlist-content">
+            <div class="wishlist-grid">
+                <!-- Wishlist items will be dynamically added here -->
+            </div>
+
+            <div class="empty-wishlist" style="display: none;">
+                <div class="empty-content">
+                    <i class="fas fa-heart"></i>
+                    <h2>Your Wishlist is Empty</h2>
+                    <p>Start adding items you love to your wishlist!<br>Find something special in our collection.</p>
+                    <a href="catalog.html" class="browse-catalog-btn">
+                        <i class="fas fa-store"></i> Explore Collection
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <style>
+        .empty-wishlist {
+            text-align: center;
+            padding: 3rem;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            margin: 3rem auto;
+            max-width: 450px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        .empty-wishlist i {
+            font-size: 4rem;
+            color: #e6a4b4;
+            margin-bottom: 1.5rem;
+            animation: pulse 2s infinite;
+        }
+
+        .empty-wishlist h2 {
+            font-family: 'Playfair Display', serif;
+            color: #333;
+            margin-bottom: 1rem;
+            font-size: 2rem;
+        }
+
+        .empty-wishlist p {
+            color: #666;
+            margin-bottom: 2rem;
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+
+        .browse-catalog-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.8rem;
+            padding: 1rem 2rem;
+            background: #e6a4b4;
+            color: white;
+            text-decoration: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(230, 164, 180, 0.3);
+        }
+
+        .browse-catalog-btn:hover {
+            background: #cf85b5;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(230, 164, 180, 0.4);
+        }
+
+        .browse-catalog-btn i {
+            font-size: 1.2rem;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+
+    <script src="../js/wishlist.js"></script>
+
+</body>
+</html> 

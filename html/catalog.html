@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blooming Hearts - Flower Catalog</title>
+    <link rel="stylesheet" href="../css/catalog.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@300;400;500&family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="background-image"></div>
+    
+    <div class="glass-container">
+        <header class="catalog-header">
+            <a href="dashboard.html" class="back-link">
+                <i class="fas fa-arrow-left"></i> Back to Dashboard
+              </a>
+            <h1 class="catalog-title">Our Collection 🎀</h1>
+            <div class="search-bar">
+                <input type="text" placeholder="Search products..." id="search-input">
+                <button class="search-btn"><i class="fas fa-search"></i></button>
+            </div>
+        </header>
+
+        <div class="catalog-filters">
+            <button class="filter-btn active" data-category="all">All</button>
+            <button class="filter-btn" data-category="bouquets">Bouquets</button>
+            <button class="filter-btn" data-category="gift-cards">Gift Cards</button>
+        </div>
+
+        <div class="catalog-grid">
+            <!-- Bouquet Products -->
+            <div class="product-card" data-category="bouquets" data-product-id="1">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/474x/14/1e/ae/141eae9236832d186696822d6883985a.jpg" alt="Flower Bouquet">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Flower Bouquet</h3>
+                    <p class="product-description">A beautiful arrangement of flowers</p>
+                    <div class="product-price">₹49.00</div>
+                </div>
+            </div>
+            
+            <div class="product-card" data-category="bouquets" data-product-id="2">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/474x/cd/aa/44/cdaa44154d6fdd3362da439e8bbea1ad.jpg" alt="Chocolate Bouquet">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Chocolate Bouquet</h3>
+                    <p class="product-description">Perfect for a romanticcc occasion</p>
+                    <div class="product-price">₹89.00</div>
+                </div>
+            </div>
+            
+            <div class="product-card" data-category="bouquets" data-product-id="3">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/474x/42/ea/db/42eadb84e4b19d170a3e9d9bb57483d0.jpg" alt="Hotwheels Bouquet">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Hotwheels Bouquet</h3>
+                    <p class="product-description">Gift for your pookieeeee</p>
+                    <div class="product-price">₹79.00</div>
+                </div>
+            </div>
+            
+            <div class="product-card" data-category="bouquets" data-product-id="4">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/474x/0c/e4/55/0ce4550536ce9228eda38706968e3538.jpg" alt="Claw Clip Bouquet">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Claw Clip Bouquet</h3>
+                    <p class="product-description">Gift for your Glorious Goddess!!!</p>
+                    <div class="product-price">₹299.00</div>
+                </div>
+            </div>
+
+            <div class="product-card" data-category="bouquets" data-product-id="5">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/736x/82/2a/f8/822af853e8847d69ec747a43c1d82a77.jpg" alt="Ribbon Bouquet">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Ribbon Bouquet</h3>
+                    <p class="product-description">A Handmade Bouquet for your sweeetieeee</p>
+                    <div class="product-price">₹399.00</div>
+                </div>
+            </div>
+
+            <div class="product-card" data-category="bouquets" data-product-id="6">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/474x/7e/67/e1/7e67e10507da1f0d00873979efe31247.jpg" alt="Bridal Bouquet">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Bridal Bouquet</h3>
+                    <p class="product-description">A stunning bridal bouquet to complement your wedding day, handcrafted with fresh, premium flowers </p>
+                    <div class="product-price">₹599.00</div>
+                </div>
+            </div>
+
+            <!-- Gift Card Products -->
+            <div class="product-card" data-category="gift-cards" data-product-id="7">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/474x/69/f7/1b/69f71b6d9fb97b043123e6e166a97350.jpg" alt="Birthday Gift Card">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Birthday Gift Card</h3>
+                    <p class="product-description"> Gift Card for an amazing birthday</p>
+                    <div class="product-price">₹50.00</div>
+                </div>
+            </div>
+            
+            <div class="product-card" data-category="gift-cards" data-product-id="8">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/474x/78/6e/ff/786eff79a16c2aaa0ba58ed823e3e50b.jpg" alt="Wedding Gift Card">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Wedding Gift Card</h3>
+                    <p class="product-description">Gift Card for a beautiful wedding</p>
+                    <div class="product-price">₹100.00</div>
+                </div>
+            </div>
+            
+            <div class="product-card" data-category="gift-cards" data-product-id="9">
+                <div class="product-image">
+                    <img src="https://i.pinimg.com/474x/60/e8/32/60e832b264f328bba4f4057dabbab83e.jpg" alt="Valentines Day Gift Card">
+                    <div class="product-overlay">
+                        <button class="quick-view-btn"><i class="fas fa-eye"></i></button>
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i></button>
+                        <button class="wishlist-btn"><i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <h3>Valentines Day Gift Card</h3>
+                    <p class="product-description">Gift Card for a romantic valentines day</p>
+                    <div class="product-price">₹200.00</div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+
+    <script src="../js/catalog.js"></script>
+</body>
+</html>

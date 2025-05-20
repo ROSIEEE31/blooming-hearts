@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shopping Cart - Blooming Hearts</title>
+  <link rel="stylesheet" href="../css/cart.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@300;400;500&family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #fff0f5;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      font-family: 'Cinzel', serif;
+      font-size: 2.5rem;
+      color: #ffffff;
+      text-shadow: 2px 2px 4px rgb(255, 255, 255);
+      margin-bottom: 0.5rem;
+    }
+
+    .cart-container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .cart-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 10px;
+    }
+
+    .cart-item img {
+      width: 80px;
+      border-radius: 10px;
+    }
+
+    .cart-item h3 {
+      flex: 2;
+      margin: 0 10px;
+      font-size: 1.1rem;
+    }
+
+    .cart-item p {
+      margin: 0 10px;
+      font-weight: bold;
+    }
+
+    .cart-item input[type="number"] {
+      width: 60px;
+      padding: 5px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    .cart-item button {
+      padding: 6px 12px;
+      border: none;
+      background-color: #ff8080;
+      color: white;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .cart-item button:hover {
+      background-color: #e06666;
+    }
+
+    .cart-summary {
+      text-align: right;
+      padding-top: 20px;
+      border-top: 1px solid #eee;
+    }
+
+    .cart-summary p {
+      margin: 8px 0;
+      font-size: 1.1rem;
+    }
+
+    #checkout-btn {
+      background-color: #b76e79;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 12px;
+      font-size: 1rem;
+      cursor: pointer;
+      margin-top: 10px;
+      transition: 0.3s ease;
+    }
+
+    #checkout-btn:hover {
+      background-color: #a25563;
+    }
+
+    @media (max-width: 600px) {
+      .cart-item {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .cart-item h3,
+      .cart-item p,
+      .cart-item input,
+      .cart-item button {
+        margin: 5px 0;
+      }
+    }
+
+    .empty-cart {
+        text-align: center;
+        padding: 3rem;
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 20px;
+        margin: 3rem auto;
+        max-width: 450px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        animation: fadeIn 0.5s ease-out;
+    }
+
+    .empty-cart i {
+        font-size: 4rem;
+        color: #e6a4b4;
+        margin-bottom: 1.5rem;
+        animation: bounce 2s infinite;
+    }
+
+    .empty-cart h2 {
+        font-family: 'Playfair Display', serif;
+        color: #333;
+        margin-bottom: 1rem;
+        font-size: 2rem;
+    }
+
+    .empty-cart p {
+        color: #666;
+        margin-bottom: 2rem;
+        font-size: 1.1rem;
+        line-height: 1.5;
+    }
+
+    .browse-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.8rem;
+        padding: 1rem 2rem;
+        background: #e6a4b4;
+        color: white;
+        text-decoration: none;
+        border-radius: 12px;
+        font-size: 1.1rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 15px rgba(230, 164, 180, 0.3);
+    }
+
+    .browse-btn:hover {
+        background: #cf85b5;
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(230, 164, 180, 0.4);
+    }
+
+    .browse-btn i {
+        font-size: 1.2rem;
+    }
+
+    @keyframes bounce {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <div class="background-image"></div>
+  
+  <div class="glass-container">
+    <header class="cart-header">
+      <a href="dashboard.html" class="back-link">
+        <i class="fas fa-arrow-left"></i> Back to Dashboard
+      </a>
+      <h1>Shopping Cart 🎀</h1>
+    </header>
+
+    <!-- Cart Items Container -->
+    <div id="cart-items" class="cart-items">
+      <!-- Cart items will be dynamically added here -->
+    </div>
+
+    <!-- Cart Summary -->
+    <div id="cart-summary" class="cart-summary">
+      <h2>Order Summary</h2>
+      <div class="summary-details">
+        <div class="summary-row">
+          <span>Subtotal</span>
+          <span id="cart-subtotal">₹0.00</span>
+        </div>
+        <div class="summary-row">
+          <span>Shipping</span>
+          <span id="cart-shipping">₹0.00</span>
+        </div>
+        <div class="summary-row total">
+          <span>Total</span>
+          <span id="cart-grand-total">₹0.00</span>
+        </div>
+      </div>
+      <button id="checkout-btn" class="checkout-btn">
+        <i class="fas fa-lock"></i> Proceed to Checkout
+      </button>
+      <p class="secure-text">
+        <i class="fas fa-shield-alt"></i> Secure Checkout
+      </p>
+    </div>
+
+    <!-- Empty Cart State -->
+    <div id="empty-cart" class="empty-cart" style="display: none;">
+      <i class="fas fa-shopping-cart"></i>
+      <h2>Your Cart is Empty</h2>
+      <p>Looks like you haven't added anything to your cart yet.</p>
+      <a href="catalog.html" class="browse-btn">
+        <i class="fas fa-store"></i> Browse Products
+      </a>
+    </div>
+  </div>
+
+  <script src="../js/cart.js"></script>
+</body>
+</html>
