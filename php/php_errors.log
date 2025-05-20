@@ -1,0 +1,637 @@
+[22-Apr-2025 20:19:57 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[22-Apr-2025 20:19:57 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[22-Apr-2025 20:20:00 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[22-Apr-2025 20:20:00 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[22-Apr-2025 20:20:02 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[22-Apr-2025 20:20:02 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[22-Apr-2025 20:20:03 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[22-Apr-2025 20:20:03 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[22-Apr-2025 20:30:22 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[22-Apr-2025 20:30:22 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[22-Apr-2025 20:30:24 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[22-Apr-2025 20:30:24 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[22-Apr-2025 20:30:53 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[22-Apr-2025 20:30:53 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[22-Apr-2025 20:38:17 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:38:19 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:38:20 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:38:21 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:38:22 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:38:24 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:38:37 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[22-Apr-2025 20:38:37 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[22-Apr-2025 20:39:04 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:39:05 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:39:06 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[22-Apr-2025 20:42:30 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:42:30 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:42:32 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:42:32 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:42:33 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:42:33 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:42:34 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:42:34 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:42:34 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:42:34 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:42:34 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:42:34 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:42:35 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:42:35 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:42:36 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:42:36 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:43:04 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:43:04 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:44:27 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:44:27 Europe/Berlin] Removing item with product_id: 
+[22-Apr-2025 20:44:30 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[22-Apr-2025 20:44:30 Europe/Berlin] Removing item with product_id: 
+[24-Apr-2025 03:41:39 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 03:41:39 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 03:41:41 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 03:41:41 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 03:41:43 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 03:41:43 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 03:41:45 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[24-Apr-2025 03:41:45 Europe/Berlin] Removing item with product_id: 
+[24-Apr-2025 03:53:27 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 03:53:27 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 03:53:28 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 03:53:28 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 06:41:36 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 06:41:36 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 06:41:37 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 06:41:37 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 06:41:39 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[24-Apr-2025 06:41:39 Europe/Berlin] Removing item with product_id: 
+[24-Apr-2025 06:41:41 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[24-Apr-2025 06:41:41 Europe/Berlin] Removing item with product_id: 
+[24-Apr-2025 06:41:43 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[24-Apr-2025 06:41:43 Europe/Berlin] Removing item with product_id: 
+[24-Apr-2025 06:42:34 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 12
+[24-Apr-2025 06:42:34 Europe/Berlin] Removing item with product_id: 
+[24-Apr-2025 06:45:09 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 06:45:09 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 06:45:10 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 06:45:10 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 06:45:11 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 06:45:11 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:01:43 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:01:43 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:01:45 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:01:45 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:01:48 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:01:48 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:01:50 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:01:50 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:01:55 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[24-Apr-2025 07:01:58 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[24-Apr-2025 07:01:59 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[24-Apr-2025 07:02:10 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:02:10 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:02:14 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:02:14 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:02:15 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[24-Apr-2025 07:02:18 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[24-Apr-2025 07:02:30 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\remove_from_cart.php on line 11
+[24-Apr-2025 07:02:36 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:02:36 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:26:45 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:26:45 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:26:47 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:26:47 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:26:49 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:26:49 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:27:12 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:27:12 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[24-Apr-2025 07:27:13 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 11
+[24-Apr-2025 07:27:13 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\update_cart.php on line 12
+[26-Apr-2025 11:44:44 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\toggle_wishlist.php on line 50
+[26-Apr-2025 11:44:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\toggle_wishlist.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\toggle_wishlist.php on line 50
+[26-Apr-2025 15:20:33 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:20:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:20:50 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:20:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:20:51 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:20:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:21:03 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:21:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:21:08 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:21:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:22:25 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:22:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:22:27 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:22:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:22:33 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:22:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:23:08 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 15:23:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:28:51 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:28:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:28:52 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:28:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:28:58 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:28:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:29:05 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:29:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:32:29 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:32:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:37:11 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:37:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:37:33 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:37:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:37:39 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:37:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:59:53 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 16:59:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:10:26 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:10:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:08 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:09 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:14 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:15 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:20 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 17:17:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:02:23 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:02:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:10:52 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:10:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:12:10 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:12:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:12:13 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:12:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 18:33:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 16
+[26-Apr-2025 18:36:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\rosiee\php\checkout.php on line 13
+[26-Apr-2025 18:36:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\rosiee\php\checkout.php on line 14
+[26-Apr-2025 18:38:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 16
+[26-Apr-2025 18:38:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 16
+[26-Apr-2025 18:38:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 16
+[26-Apr-2025 18:38:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 16
+[26-Apr-2025 18:40:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 19
+[26-Apr-2025 18:40:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 19
+[26-Apr-2025 18:40:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 19
+[26-Apr-2025 18:43:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "sessionStorage" in C:\xampp\htdocs\rosiee\php\process_payment.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 19
+[26-Apr-2025 18:50:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in C:\xampp\htdocs\rosiee\php\process_payment.php:64
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\process_payment.php(64): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\process_payment.php on line 64
+[26-Apr-2025 19:01:01 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:01:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:01:08 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:01:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:03:41 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:03:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:04:29 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:04:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:11:32 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:11:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:11:56 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:11:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:13:25 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:13:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:25:47 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:25:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:25:48 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:25:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:25:52 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[26-Apr-2025 19:25:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:25 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:36 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:42 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:43 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:46 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:17:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:19:43 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 08:19:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\rosiee\php\get_wishlist.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_wishlist.php on line 41
+[27-Apr-2025 09:34:25 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:34:25 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:36:59 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:36:59 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:37:07 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:37:07 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:37:14 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:37:14 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:40:10 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:40:10 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:41:27 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:41:27 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:41:41 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:41:41 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:43:24 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:43:24 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:43:31 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 12
+[27-Apr-2025 09:43:31 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 13
+[27-Apr-2025 09:45:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:42
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 42
+[27-Apr-2025 09:46:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:42
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 42
+[27-Apr-2025 09:46:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:42
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 42
+[27-Apr-2025 09:47:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:42
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 42
+[27-Apr-2025 09:51:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:51:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 09:56:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:17
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(17): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 17
+[27-Apr-2025 09:56:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:17
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(17): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 17
+[27-Apr-2025 09:58:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:17
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(17): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 17
+[27-Apr-2025 10:03:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(20): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 20
+[27-Apr-2025 10:03:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 10:04:28 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 15
+[27-Apr-2025 10:04:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'product_id' cannot be null in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 10:04:31 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 15
+[27-Apr-2025 10:04:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'product_id' cannot be null in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 10:05:45 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 15
+[27-Apr-2025 10:05:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'product_id' cannot be null in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 10:17:13 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 15
+[27-Apr-2025 10:17:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'product_id' cannot be null in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[27-Apr-2025 10:17:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(20): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 20
+[27-Apr-2025 10:20:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(20): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 20
+[27-Apr-2025 10:20:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[28-Apr-2025 15:26:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(20): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 20
+[28-Apr-2025 15:27:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(20): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 20
+[28-Apr-2025 15:35:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(20): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 20
+[28-Apr-2025 16:21:05 Europe/Berlin] PHP Fatal error:  Cannot redeclare getConnection() (previously declared in C:\xampp\htdocs\rosiee\php\db.php:17) in C:\xampp\htdocs\rosiee\php\db.php on line 32
+[28-Apr-2025 16:23:10 Europe/Berlin] PHP Fatal error:  Cannot redeclare getConnection() (previously declared in C:\xampp\htdocs\rosiee\php\db.php:17) in C:\xampp\htdocs\rosiee\php\db.php on line 32
+[28-Apr-2025 16:26:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:22
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(22): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 22
+[28-Apr-2025 16:26:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:22
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(22): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 22
+[28-Apr-2025 16:29:55 Europe/Berlin] Successfully connected to DB
+[28-Apr-2025 16:29:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:24
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(24): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 24
+[28-Apr-2025 16:29:58 Europe/Berlin] Successfully connected to DB
+[28-Apr-2025 16:29:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:24
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(24): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 24
+[28-Apr-2025 16:30:02 Europe/Berlin] Successfully connected to DB
+[28-Apr-2025 16:30:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:24
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(24): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 24
+[28-Apr-2025 16:33:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:22
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(22): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 22
+[28-Apr-2025 16:33:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:22
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(22): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 22
+[28-Apr-2025 16:35:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:25
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(25): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 25
+[28-Apr-2025 16:35:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:25
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(25): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 25
+[28-Apr-2025 16:36:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:22
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(22): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 22
+[28-Apr-2025 16:37:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:22
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(22): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 22
+[28-Apr-2025 16:39:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:22
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(22): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 22
+[28-Apr-2025 16:39:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\rosiee\php\get_products.php:22
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\get_products.php(22): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\get_products.php on line 22
+[28-Apr-2025 17:00:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[29-Apr-2025 08:29:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[29-Apr-2025 08:37:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[29-Apr-2025 08:42:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`rose`.`cart`, CONSTRAINT `cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`) ON DELETE CASCADE) in C:\xampp\htdocs\rosiee\php\add_to_cart.php:45
+Stack trace:
+#0 C:\xampp\htdocs\rosiee\php\add_to_cart.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\rosiee\php\add_to_cart.php on line 45
+[29-Apr-2025 14:45:18 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\rosiee\php\contact.php on line 46
+[29-Apr-2025 14:45:19 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\rosiee\php\contact.php on line 46
+[29-Apr-2025 14:46:36 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\rosiee\php\contact.php on line 46
+[29-Apr-2025 14:50:01 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\rosiee\php\contact.php on line 46
+[30-Apr-2025 04:38:44 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\rosiee\php\get_customers.php on line 21
